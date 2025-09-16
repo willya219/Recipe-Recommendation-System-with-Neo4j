@@ -256,10 +256,6 @@ Ce système peut être utilisé dans :
 - Interface utilisateur web
 - API REST pour intégration externe
 
-## 👥 Contributeurs
-
-Projet réalisé dans le cadre du cours INF8810 - Traitement et Analyse de données massives
-
 ## 📄 Documentation
 
 Pour plus de détails, consultez le [rapport complet](Rapport.pdf) qui contient les captures d'écran et analyses détaillées.

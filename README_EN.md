@@ -257,10 +257,6 @@ This system can be used in:
 - Web user interface
 - REST API for external integration
 
-## 👥 Contributors
-
-Project completed as part of INF8810 - Big Data Processing and Analysis course
-
 ## 📄 Documentation
 
 For more details, see the [complete report](Rapport.pdf) which contains screenshots and detailed analyses.
